@@ -1,0 +1,43 @@
+
+h1{
+    text-align: center;
+    color: #8710ff;
+    font-size: 2em;
+    margin-top: 20px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ 
+
+
+h2{
+    font-style: italic;
+    text-align: center;
+    color: #b080d7;
+    font-size: em;
+    margin-top: 20px;
+}
+.conteudo-padrao{
+    text-align: justify;
+    font-size: 1.2em;
+    margin-top: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body{
+    background: #321c45;
+    background: linear-gradient(216deg,rgba(50, 28, 69, 1) 0%, rgba(43, 32, 89, 1) 43%, rgba(109, 10, 196, 1) 100%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    margin: 1px;
+    padding: 20px;
+}
+.imgs{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 50%;
+    object-fit: cover;
+    height: 1px solid #23012c;
+    border-radius: 20px;
+}
